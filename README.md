@@ -1,10 +1,10 @@
 # Projeto agenda de contatos
 
-To upload the project, install it on the server with the command $ npm install -g serve 
-to run upload the application $ serve -s 
+To upload the project, install it on the server with the command ##$ npm install -g serve 
+to run upload the application ## $ serve -s 
 
-Or you can install this server $ npm install -g http-server
-to run upload the application $ http-server
+Or you can install this server ## $ npm install -g http-server
+to run upload the application ## $ http-server
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.11.
 
